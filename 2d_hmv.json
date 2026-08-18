@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-17T01:09:59.114625+00:00",
-  "total_videos": 5811,
+  "last_updated": "2026-08-18T01:07:36.138355+00:00",
+  "total_videos": 5814,
   "videos": [
+    {
+      "serial_no": 5814,
+      "title": "[996564796] Angelic Link (Part 3)",
+      "slug": "996564796-angelic-link-part-3",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_996564796-Angelic-Link-Part-3_cover.jpg",
+      "views": "8 Views",
+      "upload_date": "Aug 18 2026",
+      "duration": "2:18",
+      "download_link": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_996564796-Angelic-Link-Part-3.mp4"
+    },
+    {
+      "serial_no": 5813,
+      "title": "[NotSourceBank] Nekopop HMV",
+      "slug": "notsourcebank-nekopop-hmv",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_NotSourceBank-Nekopop-HMV_cover.jpg",
+      "views": "8 Views",
+      "upload_date": "Aug 18 2026",
+      "duration": "3:01",
+      "download_link": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_NotSourceBank-Nekopop-HMV.mp4"
+    },
+    {
+      "serial_no": 5812,
+      "title": "[Hentaddiction] Not enough",
+      "slug": "hentaddiction-not-enough",
+      "thumbnail": "https://mania_v1.cloud-dl.workers.dev/proxy?url=https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Hentaddiction-Not-enough_cover.jpg",
+      "views": "8 Views",
+      "upload_date": "Aug 18 2026",
+      "duration": "0:36",
+      "download_link": "https://hmvmania.com/wp-content/uploads/2021/01/av1_1080p_Hentaddiction-Not-enough.mp4"
+    },
     {
       "serial_no": 5811,
       "title": "[Dopamine] Inaka ni wa Kore Kurai Shika Goraku ga Nai",
